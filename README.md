@@ -57,3 +57,4 @@ Tool / Platform	Purpose:
 
 ---
  
+![](images/agent_workflow_n8n.png)
